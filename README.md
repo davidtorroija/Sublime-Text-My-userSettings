@@ -3,7 +3,7 @@ Sublime-Text-My-userSettings
 
 Sublime-Text-My-userSettings
 
-
+```javascript
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
@@ -27,3 +27,4 @@ Sublime-Text-My-userSettings
 	"theme": "Centurion.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
+```
