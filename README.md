@@ -9,7 +9,7 @@ Sublime-Text-My-userSettings
 	"caret_style": "phase",
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
 	"fade_fold_buttons": true,
-	"font_face": "Emilbus Mono",
+	"font_face": "Monaco",
 	"font_options":
 	[
 		"gray_antialias"
